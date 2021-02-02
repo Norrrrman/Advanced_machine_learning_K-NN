@@ -1,4 +1,4 @@
-# Advanced_machine_learning_iris
+# Advanced_machine_learning_K-NN
 
 Part I. K-Nearest Neighbor Algorithm
 The nearest neighbor algorithm is a very simple classification algorithm based on the
